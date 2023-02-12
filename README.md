@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tayefShahriar
-- 👀 I’m interested in django, python
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on django project
+- 👀 I’m interested in django, python and React.js
+- 🌱 I’m currently learning django and React.js
+- 💞️ I’m looking to collaborate on django or React project
 - 📫 How to reach me tayef12@gmail.com
 
 <!---
